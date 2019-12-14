@@ -1,0 +1,7 @@
+export PATH=/usr/local/bin:/usr/local/sbin:$PATH
+
+export PATH="/Users/me/.npm-global/bin:$PATH
+
+
+
+
